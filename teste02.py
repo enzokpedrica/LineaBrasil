@@ -29,7 +29,7 @@ df['Descricao'] = df['Descricao'].str.slice(0, 30).str.strip()
 df['Quantidade'] = df['Quantidade'].apply(lambda x: f"{x:,.2f}".replace(',', 'v').replace('.', ',').replace('v', '.'))
 df['Codigo'] = df['Codigo'].astype(int)
 
-#--- LEITURA DO ARQUIVO NOVO
+#--- LEITURA DO ARQUIVO NOVO ---
 file_map = "Lista_Map.CSV"
 df_map = pd.read_csv(file_map, delimiter=';', encoding='latin1')
 
