@@ -1,11 +1,22 @@
 import pandas as pd
 import re
 import openpyxl
-from openpyxl.styles import Border, Side, Alignment
+from openpyxl.styles import Border, Side, Alignment, Font
 import subprocess
 
 file = "teste.TXT"
 
+# Leitura do TXT para extrair o número da requisição
+colspecs = [(5, 27)]
+colnames = ['Codigo']
+
+df_requisicao = pd.read_fwf(file, colspecs=colspecs, skiprows=1, header=None, names=colnames, encoding='latin1')
+
+df_requisicao['Codigo'] = df_requisicao['Codigo'].str.extract(r'(\d+\.\d+)')
+
+posicao_requisicao = df_requisicao["Codigo"][0]
+
+# Leitura do TXT para extrair demais informações
 colspecs = [(3, 12), (12, 16), (32, 80), (80, 125)]
 colnames = ['Codigo', 'Deriv', 'Descricao', 'Quantidade']
 
@@ -29,20 +40,18 @@ df['Descricao'] = df['Descricao'].str.slice(0, 30).str.strip()
 df['Quantidade'] = df['Quantidade'].apply(lambda x: f"{x:,.2f}".replace(',', 'v').replace('.', ',').replace('v', '.'))
 df['Codigo'] = df['Codigo'].astype(int)
 
-#--- LEITURA DO ARQUIVO NOVO ---
+#--- Leitura do Arquivo que contém o mapeamento ---
 file_map = "Lista_Map.CSV"
 df_map = pd.read_csv(file_map, delimiter=';', encoding='latin1')
 
-# MERGE
+# Merge das planilhas
 df_merged = pd.merge(df, df_map, left_on='Codigo', right_on='Cod Produto', how='left')
 df_merged.drop(columns=['Cod Produto', 'Produto', 'Deriv_y', 'Tipo/Cor'], inplace=True)
-
 df_merged['Descricao'] = df_merged['Descricao'].str.strip().apply(lambda x: x.ljust(30))
 df_merged = df_merged.sort_values(by='Secao')
 df_merged = df_merged[['Codigo', 'Deriv_x', 'Descricao', 'Rua', 'Secao', 'Andar', 'Quantidade']]
 df_merged["QTD Entregue"] = " "
-df_merged["Vol Entregue"] = " "
-df_merged["Saldo Final"] = " "
+df_merged["Requisição"] = ""
 
 
 df_merged.to_excel('tabela_imprimir.xlsx', index=False, engine='openpyxl')
@@ -57,25 +66,37 @@ borda = Border(left=Side(style='thin'),
                      top=Side(style='thin'), 
                      bottom=Side(style='thin'))
 
+ws["I2"] = posicao_requisicao
+
 for row in ws.iter_rows(min_row=1, max_row=ws.max_row, min_col=1, max_col=ws.max_column):
     for cell in row:
         cell.border = borda
 
+# Definindo o tamanho das colunas
 column_widths = {
-    'A': 11,  # Código
-    'B': 9,  # Deriv_x
-    'C': 33,  # Descricao
-    'D': 6,  # Rua
-    'E': 6,  # Secao
-    'F': 6,  # Andar
-    'G': 13,  # Quantidade
-    'H': 13,  # Quantidade Entregue
-    'I': 13,  # Volumes Entregue
-    'J': 13   # Saldo Final
+    'A': 10,  # Código
+    'B': 8,  # Deriv_x
+    'C': 30,  # Descricao
+    'D': 5,  # Rua
+    'E': 5,  # Secao
+    'F': 5,  # Andar
+    'G': 12,  # Quantidade
+    'H': 12,  # Quantidade Entregue
+    'I': 11  # Requisição
 }
 
 for coluna, tamanho in column_widths.items():
     ws.column_dimensions[coluna].width = tamanho
+
+# Define a fonte com tamanho de 10 pontos
+fonte_padrao = Font(size=10)
+
+# Aplica a fonte para todas as células
+for row in ws.iter_rows(min_row=1, max_row=ws.max_row, min_col=1, max_col=ws.max_column):
+    for cell in row:
+        cell.font = fonte_padrao
+
+title_font = Font(size=10, bold=True)
 
 for cell in ws[1]:
     cell.alignment = Alignment(horizontal='center')
