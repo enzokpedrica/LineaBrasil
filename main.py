@@ -50,7 +50,7 @@ df_merged.drop(columns=['Cod Produto', 'Produto', 'Deriv_y', 'Tipo/Cor'], inplac
 df_merged['Descricao'] = df_merged['Descricao'].str.strip().apply(lambda x: x.ljust(30))
 df_merged = df_merged.sort_values(by='Secao')
 df_merged = df_merged[['Codigo', 'Deriv_x', 'Descricao', 'Rua', 'Secao', 'Andar', 'Quantidade']]
-df_merged["QTD Entregue"] = " "
+# df_merged["QTD Entregue"] = " "
 df_merged["Requisição"] = ""
 df_merged.rename(columns={'Deriv_x' : 'Deriv'}, inplace=True)
 df_merged.drop_duplicates(subset=['Codigo'])
@@ -68,11 +68,11 @@ borda = Border(left=Side(style='thin'),
                      top=Side(style='thin'), 
                      bottom=Side(style='thin'))
 
-ws["I2"] = posicao_requisicao
+ws["H2"] = posicao_requisicao
 
 ws = wb.active
 for row in ws[2:ws.max_row]:
-    for col in [1, 3, 4, 5, 6]:
+    for col in [1, 3, 4, 5, 6, 7]:
         cell = row[col]
         cell.alignment = Alignment(horizontal='center')
 
