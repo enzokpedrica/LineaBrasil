@@ -52,6 +52,8 @@ df_merged = df_merged.sort_values(by='Secao')
 df_merged = df_merged[['Codigo', 'Deriv_x', 'Descricao', 'Rua', 'Secao', 'Andar', 'Quantidade']]
 df_merged["QTD Entregue"] = " "
 df_merged["Requisição"] = ""
+df_merged.rename(columns={'Deriv_x' : 'Deriv'}, inplace=True)
+df_merged.drop_duplicates(subset=['Codigo'])
 
 
 df_merged.to_excel('tabela_imprimir.xlsx', index=False, engine='openpyxl')
@@ -68,6 +70,12 @@ borda = Border(left=Side(style='thin'),
 
 ws["I2"] = posicao_requisicao
 
+ws = wb.active
+for row in ws[2:ws.max_row]:
+    for col in [1, 3, 4, 5, 6]:
+        cell = row[col]
+        cell.alignment = Alignment(horizontal='center')
+
 for row in ws.iter_rows(min_row=1, max_row=ws.max_row, min_col=1, max_col=ws.max_column):
     for cell in row:
         cell.border = borda
@@ -75,7 +83,7 @@ for row in ws.iter_rows(min_row=1, max_row=ws.max_row, min_col=1, max_col=ws.max
 # Definindo o tamanho das colunas
 column_widths = {
     'A': 10,  # Código
-    'B': 8,  # Deriv_x
+    'B': 6,  # Deriv_x
     'C': 30,  # Descricao
     'D': 5,  # Rua
     'E': 5,  # Secao
