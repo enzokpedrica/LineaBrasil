@@ -1,10 +1,20 @@
 import openpyxl
 from openpyxl.styles import Alignment, Font
 import subprocess
+import pandas as pd
+
+file = "C:/git/linea-ordenacao-requisicao/Lista_Map.CSV"
+
+
+df= pd.read_csv(file, delimiter=';', encoding='latin1')
+
 
 wb = openpyxl.load_workbook('layout.xlsx')
 ws = wb.active
 ws.title = "Tabela"
+
+codigo = input("Digite o Código do Produto: ")
+quantidade = 
 
 #--Produto
 ws["B2"] = """Parafuso 3,5X12 CAB FLANGEADA"""
