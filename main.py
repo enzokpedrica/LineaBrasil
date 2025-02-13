@@ -13,24 +13,39 @@ wb = openpyxl.load_workbook('layout.xlsx')
 ws = wb.active
 ws.title = "Tabela"
 
-codigo = input("Digite o Código do Produto: ")
-quantidade = 
+# Função para ajustar o tamanho da fonte com base no comprimento do texto
+def ajustar_tamanho_fonte(texto, tamanho_base=150):
+    comprimento = len(texto)
+    if comprimento <= 5:
+        return tamanho_base
+    elif comprimento <= 6:
+        return tamanho_base - 20
+    else:
+        return tamanho_base - 35
 
-#--Produto
-ws["B2"] = """Parafuso 3,5X12 CAB FLANGEADA"""
+# Definir a quantidade
+quantidade = input("Digita a Quantidade: ")
+ws["B3"] = quantidade
+cell = ws["B3"]
+tamanho_fonte = ajustar_tamanho_fonte(quantidade, tamanho_base=150)
+cell.font = Font(size=tamanho_fonte)
+cell.alignment = Alignment(wrapText=True, horizontal='center', vertical='center')
+
+# Solicitar o código do produto ao usuário
+codigo_produto_int = int(input("Digite o Código do Produto: "))
+codigo_produto_str = str(codigo_produto_int)
+
+# Buscar a descrição do produto no DataFrame
+produto = df.loc[df['Cod Produto'] == codigo_produto_int, 'Produto'].values[0]
+
+# Definir o produto
+ws["B2"] = produto
 cell = ws["B2"]
 cell.font = Font(size=60)
-cell.alignment = Alignment(wrapText=True,horizontal='center', vertical='center')
+cell.alignment = Alignment(wrapText=True, horizontal='center', vertical='center')
 
-#--Quantidade
-ws["B3"] = "11130585"
-cell = ws["B3"]
-cell.font = Font(size=100)
-cell.alignment = Alignment(wrapText=True,horizontal='center', vertical='center')
-
-
-#--Numero Pedido
-ws["B4"] = "6016"
+# #--Numero Pedido
+ws["B4"] = codigo_produto_str[-4:]
 cell = ws["B4"]
 cell.font = Font(size=150)
 cell.alignment = Alignment(wrapText=True,horizontal='center', vertical='center')
