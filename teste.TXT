@@ -2,61 +2,61 @@
                                                Atendimento de Requisições                           RSG:
 
 
-     Requis         176.750
+     Requis         176.863
 
       Solic     jussara.souza                                         Centro d1614    Acessórios
- Data Emiss12/02/2025 Hora Emissã  06:2Saldo:Não              Data Entr12/02/2025      Hora Entr06:43
+ Data Emiss13/02/2025 Hora Emissã  06:0Saldo:Não              Data Entr13/02/2025      Hora Entr06:27
 
       Produt  Deriv       End    Descrição Produto                                       Quantidade Separação   Observação
 
-   160006016        R01 P15 A102 PARAFUSO 3,5X12 CABECA FLANGEADA PHS BICROMATIZADO     200.000,00000                    Aprovado
-   160001012        R01 P12 A101 DISPOSITIVO TRAPEZIO CINZA                               15.000,00000                   Aprovado
-
-   160001032        R01 P14 A301 CANTONEIRA PLASTICA CINZA 20X20X14X1,8MM                   6.000,00000                  Aprovado
-   160001018        R01 P14 A101 CANTONEIRA PLASTICA 20x20x42 COM 4 FUROS                 21.000,00000                   Aprovado
-
-   160006018        R01 P13 A101 PARAFUSO 4,5X22 CABECA CHATA - ZINCADO                   10.000,00000                   Aprovado
-   160001059                     CAVILHA 5X25MM                                             5.000,00000                  Aprovado
-
-   160001005        R01 P10 A302 CAVILHA 8X55MM PINUS                                     10.000,00000                   Aprovado
-
-   160001003        R01 P10 A301 CAVILHAS 8X20MM PINUS                                    20.000,00000                   Aprovado
-   160006011        R01 P15 A101 PREGO 8X8 COM CABECA LISO - 18,50x1,30mm DIAMETRO CABE 100.000,00000                    Aprovado
-                                 3,5MM
-   160006006        R01 P15 A201 PARAFUSO 3,5X40 CABECA CHATA PHS BICROMATIZADO           30.000,00000                   Aprovado
-
-   160001001        R01 P11 A202 COLA PARA MONTAGEM - 08GRS                                 2.000,00000                  Aprovado
-
-   160001023        R01 P11 A301 CAVILHA 6X30MM                                           50.000,00000                   Aprovado
-   160001024        R01 P11 A102 PINO GIROFIX COM ROSCA SOBERBA CONE 7MM - ACO **MODELO   40.000,00000                   Aprovado
-                                 NOVO**
-   160001025        R01 P11 A101 CASTANHA DO MINI-GIROFIX 12X9MM  **MODELO NOVO**         40.000,00000                   Aprovado
-
    160001034                     CHAPA JUNCAO 18X40 COM 2 FUROS                           10.000,00000                   Aprovado
+   160006016        R01 P15 A102 PARAFUSO 3,5X12 CABECA FLANGEADA PHS BICROMATIZADO     260.000,00000                    Aprovado
 
-   160006022                     PARAFUSO M4 12MM CHATA PHS BICROMATIZADO                   5.000,00000                  Aprovado
-   1600020043014                 SAPATA OVAL 12X50 PRETO                                  15.000,00000                   Aprovado
+   160006011        R01 P15 A101 PREGO 8X8 COM CABECA LISO - 18,50x1,30mm DIAMETRO CABE 200.000,00000                    Aprovado
+                                 3,5MM
+   160001022        R01 P11 A201 PORCA CILINDRICA 12X9MM                                    6.000,00000                  Aprovado
 
-   160001002        R01 P12 A201 PRENDEDOR DE FUNDOS 13X13 COM 1 FURO                     50.000,00000                   Aprovado
-   1600020033014                 SUPORTE PRATELEIRA NYLON 8X10MM PRETO                      5.000,00000                  Aprovado
+   1600020033014                 SUPORTE PRATELEIRA NYLON 8X10MM PRETO                      6.000,00000                  Aprovado
+   160001032        R01 P14 A301 CANTONEIRA PLASTICA CINZA 20X20X14X1,8MM                 10.000,00000                   Aprovado
 
-   1600020053039                 GUIA CABO / PASSA FIO 46MM +/-0,2MM OFF WHITE              2.000,00000                  Aprovado
-   1600020123039                 GIZ DE CORRECAO 15x8 OFF WHITE                             1.000,00000                  Aprovado
+   160006018        R01 P13 A101 PARAFUSO 4,5X22 CABECA CHATA - ZINCADO                   40.000,00000                   Aprovado
+   160001018        R01 P14 A101 CANTONEIRA PLASTICA 20x20x42 COM 4 FUROS                 33.000,00000                   Aprovado
+
+   160006010        R01 P13 A301 PARAFUSO 4,5X50 CABECA CHATA PHS BICROMATIZADO           12.000,00000                   Aprovado
+   160001023        R01 P11 A301 CAVILHA 6X30MM                                           50.000,00000                   Aprovado
+
+   160001011        R01 P16 A101 SUPORTE ANGULAR CENTRAL MARRON                           10.000,00000                   Aprovado
+
+   1600020063000                 BUCHA 8MM (PAREDE) NEUTRO                                  8.000,00000                  Aprovado
+   160001024        R01 P11 A102 PINO GIROFIX COM ROSCA SOBERBA CONE 7MM - ACO **MODELO   50.000,00000                   Aprovado
+                                 NOVO**
+   160001025        R01 P11 A101 CASTANHA DO MINI-GIROFIX 12X9MM  **MODELO NOVO**         50.000,00000                   Aprovado
+
+   170001005                     FILME POLIETILENO (PE) 590X280X0,07 MICRAS                      20,00000                Aprovado
 
    1600020123039                 GIZ DE CORRECAO 15x8 OFF WHITE                             2.000,00000                  Aprovado
+   1600020123070                 GIZ DE CORRECAO 15x8 NATURE                                2.000,00000                  Aprovado
 
-   1600020123011                 GIZ DE CORRECAO 15x8 CAPUCCINO                             2.000,00000                  Aprovado
-   1600020023080                 TAMPA ADESIVA 18MM TAUARI                                20.000,00000                   Aprovado
+   1600020073000                 EMBALAGEM PLASTICA VIRGEM 10X15 PARA ACESSORIOS NEUTRO     3.000,00000                  Aprovado
+   1600020023070                 TAMPA ADESIVA 18MM NATURE                                20.000,00000                   Aprovado
 
-   1600020073000                 EMBALAGEM PLASTICA VIRGEM 10X15 PARA ACESSORIOS NEUTRO     2.000,00000                  Aprovado
-   170001005                     FILME POLIETILENO (PE) 590X280X0,07 MICRAS                      20,00000                Aprovado
+   1600020023039                 TAMPA ADESIVA 18MM OFF WHITE                             40.000,00000                   Aprovado
+   1600020023057                 TAMPA ADESIVA 18MM FREIJO                                20.000,00000                   Aprovado
+
+   310004001        R01 P31 A101 FITA ADESIVA 48X100MM INCOLOR                                   45,00000                Aprovado
 
 
 
 
                              Solicitante: jussara.souza                            Resp. Almoxarifado: enzo.pedrica
-
                                                                    Data Retirada:____/____/________       Hora:____:____
+
+
+
+
+
+
+
 
 
 
