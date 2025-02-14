@@ -2,58 +2,58 @@
                                                Atendimento de Requisições                           RSG:
 
 
-     Requis         176.863
+     Requis         176.961
 
       Solic     jussara.souza                                         Centro d1614    Acessórios
- Data Emiss13/02/2025 Hora Emissã  06:0Saldo:Não              Data Entr13/02/2025      Hora Entr06:27
+ Data Emiss14/02/2025 Hora Emissã  06:1Saldo:Não              Data Entr14/02/2025      Hora Entr06:36
 
       Produt  Deriv       End    Descrição Produto                                       Quantidade Separação   Observação
 
-   160001034                     CHAPA JUNCAO 18X40 COM 2 FUROS                           10.000,00000                   Aprovado
-   160006016        R01 P15 A102 PARAFUSO 3,5X12 CABECA FLANGEADA PHS BICROMATIZADO     260.000,00000                    Aprovado
-
-   160006011        R01 P15 A101 PREGO 8X8 COM CABECA LISO - 18,50x1,30mm DIAMETRO CABE 200.000,00000                    Aprovado
-                                 3,5MM
-   160001022        R01 P11 A201 PORCA CILINDRICA 12X9MM                                    6.000,00000                  Aprovado
-
-   1600020033014                 SUPORTE PRATELEIRA NYLON 8X10MM PRETO                      6.000,00000                  Aprovado
-   160001032        R01 P14 A301 CANTONEIRA PLASTICA CINZA 20X20X14X1,8MM                 10.000,00000                   Aprovado
-
-   160006018        R01 P13 A101 PARAFUSO 4,5X22 CABECA CHATA - ZINCADO                   40.000,00000                   Aprovado
-   160001018        R01 P14 A101 CANTONEIRA PLASTICA 20x20x42 COM 4 FUROS                 33.000,00000                   Aprovado
-
-   160006010        R01 P13 A301 PARAFUSO 4,5X50 CABECA CHATA PHS BICROMATIZADO           12.000,00000                   Aprovado
-   160001023        R01 P11 A301 CAVILHA 6X30MM                                           50.000,00000                   Aprovado
-
-   160001011        R01 P16 A101 SUPORTE ANGULAR CENTRAL MARRON                           10.000,00000                   Aprovado
-
-   1600020063000                 BUCHA 8MM (PAREDE) NEUTRO                                  8.000,00000                  Aprovado
+   160006016        R01 P15 A102 PARAFUSO 3,5X12 CABECA FLANGEADA PHS BICROMATIZADO     200.000,00000                    Aprovado
    160001024        R01 P11 A102 PINO GIROFIX COM ROSCA SOBERBA CONE 7MM - ACO **MODELO   50.000,00000                   Aprovado
                                  NOVO**
    160001025        R01 P11 A101 CASTANHA DO MINI-GIROFIX 12X9MM  **MODELO NOVO**         50.000,00000                   Aprovado
 
+   160006003        R01 P15 A301 PARAFUSO 3,5X14 CABECA FLANGEADA PHS PRETO               15.000,00000                   Aprovado
+
+   160006018        R01 P13 A101 PARAFUSO 4,5X22 CABECA CHATA - ZINCADO                   20.000,00000                   Aprovado
+   160001034                     CHAPA JUNCAO 18X40 COM 2 FUROS                           16.000,00000                   Aprovado
+
+   160001018        R01 P14 A101 CANTONEIRA PLASTICA 20x20x42 COM 4 FUROS                 30.000,00000                   Aprovado
+   160006006        R01 P15 A201 PARAFUSO 3,5X40 CABECA CHATA PHS BICROMATIZADO           30.000,00000                   Aprovado
+
+   160001022        R01 P11 A201 PORCA CILINDRICA 12X9MM                                    6.000,00000                  Aprovado
+   1600020033014                 SUPORTE PRATELEIRA NYLON 8X10MM PRETO                      2.500,00000                  Aprovado
+
+   160006053                     PARAFUSO ESTRUTURAL 7X40 CABECA CHATA ROSCA FINA- PHIL     4.000,00000                  Aprovado
+
+   1600020143014                 DISTANCIADOR DE PAINEL 70 X 32 X 15MM PRETO                1.000,00000                  Aprovado
+   160006015        R01 P15 A202 PARAFUSO 6,0X75 CABECA CHATA PHS BICROMATIZADO             4.000,00000                  Aprovado
+
+   160006011        R01 P15 A101 PREGO 8X8 COM CABECA LISO - 18,50x1,30mm DIAMETRO CABE 200.000,00000                    Aprovado
+                                 3,5MM
+   1600020043014                 SAPATA OVAL 12X50 PRETO                                  15.000,00000                   Aprovado
+
+   160001023        R01 P11 A301 CAVILHA 6X30MM                                           50.000,00000                   Aprovado
+   1600020053039                 GUIA CABO / PASSA FIO 46MM +/-0,2MM OFF WHITE              1.000,00000                  Aprovado
+
+   1600020053014                 GUIA CABO / PASSA FIO 46MM +/-0,2MM PRETO                  2.000,00000                  Aprovado
    170001005                     FILME POLIETILENO (PE) 590X280X0,07 MICRAS                      20,00000                Aprovado
 
-   1600020123039                 GIZ DE CORRECAO 15x8 OFF WHITE                             2.000,00000                  Aprovado
-   1600020123070                 GIZ DE CORRECAO 15x8 NATURE                                2.000,00000                  Aprovado
+   1600020123039                 GIZ DE CORRECAO 15x8 OFF WHITE                             3.000,00000                  Aprovado
+   1600020123070                 GIZ DE CORRECAO 15x8 NATURE                                3.000,00000                  Aprovado
+
+   1600020123011                 GIZ DE CORRECAO 15x8 CAPUCCINO                             2.000,00000                  Aprovado
 
    1600020073000                 EMBALAGEM PLASTICA VIRGEM 10X15 PARA ACESSORIOS NEUTRO     3.000,00000                  Aprovado
-   1600020023070                 TAMPA ADESIVA 18MM NATURE                                20.000,00000                   Aprovado
-
-   1600020023039                 TAMPA ADESIVA 18MM OFF WHITE                             40.000,00000                   Aprovado
-   1600020023057                 TAMPA ADESIVA 18MM FREIJO                                20.000,00000                   Aprovado
-
-   310004001        R01 P31 A101 FITA ADESIVA 48X100MM INCOLOR                                   45,00000                Aprovado
+   1600020023080                 TAMPA ADESIVA 18MM TAUARI                                20.000,00000                   Aprovado
 
 
 
 
                              Solicitante: jussara.souza                            Resp. Almoxarifado: enzo.pedrica
+
                                                                    Data Retirada:____/____/________       Hora:____:____
-
-
-
-
 
 
 
