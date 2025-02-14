@@ -47,15 +47,15 @@ cell.alignment = Alignment(wrapText=True, horizontal='center', vertical='center'
 # #--Numero Pedido
 ws["B4"] = codigo_produto_str[-4:]
 cell = ws["B4"]
-cell.font = Font(size=150)
+cell.font = Font(size=190)
 cell.alignment = Alignment(wrapText=True,horizontal='center', vertical='center')
 
 
-#--Volume
-ws["B5"] = "10"
-cell = ws["B5"]
-cell.font = Font(size=110)
-cell.alignment = Alignment(wrapText=True,horizontal='center', vertical='center')
+# #--Volume
+# ws["B5"] = "10"
+# cell = ws["B5"]
+# cell.font = Font(size=110)
+# cell.alignment = Alignment(wrapText=True,horizontal='center', vertical='center')
 
 for cell in ws[1]:
     cell.alignment = Alignment(horizontal='center')
