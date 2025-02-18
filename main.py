@@ -45,9 +45,9 @@ cell.font = Font(size=60)
 cell.alignment = Alignment(wrapText=True, horizontal='center', vertical='center')
 
 # #--Numero Pedido
-ws["B4"] = codigo_produto_str[-4:]
+ws["B4"] = codigo_produto_str
 cell = ws["B4"]
-cell.font = Font(size=190)
+cell.font = Font(size=90)
 cell.alignment = Alignment(wrapText=True,horizontal='center', vertical='center')
 
 
