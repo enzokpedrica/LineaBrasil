@@ -2,58 +2,58 @@
                                                Atendimento de Requisições                           RSG:
 
 
-     Requis         177.195
+     Requis         177.237
 
       Solic     jussara.souza                                         Centro d1614    Acessórios
- Data Emiss18/02/2025 Hora Emissã  06:0Saldo:Não              Data Entr18/02/2025      Hora Entr06:26
+ Data Emiss18/02/2025 Hora Emissã  13:4Saldo:Não              Data Entr18/02/2025      Hora Entr14:30
 
       Produt  Deriv       End    Descrição Produto                                       Quantidade Separação   Observação
 
-   160001009                     ARRUELA 3/16 15MM ZINCADO FURO DIAMETRO 5MM              13.000,00000                   Aprovado
-   160006016        R3E S4 E1    PARAFUSO 3,5X12 CABECA FLANGEADA PHS BICROMATIZADO     160.000,00000                    Aprovado
+   160001011        R01 P16 A101 SUPORTE ANGULAR CENTRAL MARRON                           30.000,00000                   Aprovado
+   160001018        R01 P14 A101 CANTONEIRA PLASTICA 20x20x42 COM 4 FUROS                 12.000,00000                   Aprovado
 
-   160001001        R01 P11 A202 COLA PARA MONTAGEM - 08GRS                                 1.000,00000                  Aprovado
-   160006020        R3E S8 E2    PINO UNIAO M4 12MM CHATA PHS ZINCADO (DOBRADICA)         10.000,00000                   Aprovado
-
-   160001024        R3E S8 E0    PINO GIROFIX COM ROSCA SOBERBA CONE 7MM - ACO **MODELO   50.000,00000                   Aprovado
+   160001024        R3E S8 E0    PINO GIROFIX COM ROSCA SOBERBA CONE 7MM - ACO **MODELO   40.000,00000                   Aprovado
                                  NOVO**
-   160001025        R01 P11 A101 CASTANHA DO MINI-GIROFIX 12X9MM  **MODELO NOVO**         50.000,00000                   Aprovado
+   160001025        R01 P11 A101 CASTANHA DO MINI-GIROFIX 12X9MM  **MODELO NOVO**         40.000,00000                   Aprovado
 
-   160006015        R3E S2 E0    PARAFUSO 6,0X75 CABECA CHATA PHS BICROMATIZADO             5.000,00000                  Aprovado
-   160006053        R3E S3 E0    PARAFUSO ESTRUTURAL 7X40 CABECA CHATA ROSCA FINA- PHIL   12.000,00000                   Aprovado
+   1600020043014                 SAPATA OVAL 12X50 PRETO                                  15.000,00000                   Aprovado
+   1600020163014                 SUPORTE FIM DE CURSO 10X15 MM PRETO                        5.000,00000                  Aprovado
 
-   160001018        R01 P14 A101 CANTONEIRA PLASTICA 20x20x42 COM 4 FUROS                 21.000,00000                   Aprovado
-   160006004        R3E S3 D3    PARAFUSO 3,5X22 CABECA FLANGEADA SEM PONTA  PHS ZINCAD     5.000,00000                  Aprovado
-                                 PUXADOR PORTA MADEIRA 15MM
+   160006016        R3E S4 E1    PARAFUSO 3,5X12 CABECA FLANGEADA PHS BICROMATIZADO     100.000,00000                    Aprovado
+   160006021        R3E S2 D1    PARAFUSO 4,5X35 CABECA FLANGEADA PHS BICROMATIZADO       12.000,00000                   Aprovado
 
-   160006021        R3E S2 D1    PARAFUSO 4,5X35 CABECA FLANGEADA PHS BICROMATIZADO         3.600,00000                  Aprovado
-   160006034        R3E S3 E1    PARAFUSO 3,5X25 CABECA FLANGEADA PRETO                   20.000,00000                   Aprovado
+   160006011        R3E S3 D0    PREGO 8X8 COM CABECA LISO - 18,50x1,30mm DIAMETRO CABE 200.000,00000                    Aprovado
+                                 3,5MM
+   1600020033014                 SUPORTE PRATELEIRA NYLON 8X10MM PRETO                    10.000,00000                   Aprovado
 
    160001023        R01 P11 A301 CAVILHA 6X30MM                                           50.000,00000                   Aprovado
-   1600020063000                 BUCHA 8MM (PAREDE) NEUTRO                                12.000,00000                   Aprovado
+   1600020053039                 GUIA CABO / PASSA FIO 46MM +/-0,2MM OFF WHITE              2.000,00000                  Aprovado
 
-   160001034                     CHAPA JUNCAO 18X40 COM 2 FUROS                           20.000,00000                   Aprovado
+   1600020053014                 GUIA CABO / PASSA FIO 46MM +/-0,2MM PRETO                  1.000,00000                  Aprovado
+   160001003        R01 P10 A301 CAVILHAS 8X20MM PINUS                                    20.000,00000                   Aprovado
 
-   160006006        R3E S5 E0    PARAFUSO 3,5X40 CABECA CHATA PHS BICROMATIZADO           20.000,00000                   Aprovado
-   160006010        R3E S5 D0    PARAFUSO 4,5X50 CABECA CHATA PHS BICROMATIZADO             8.000,00000                  Aprovado
+   1600020123039                 GIZ DE CORRECAO 15x8 OFF WHITE                             3.000,00000                  Aprovado
 
-   160006008        R3E S4 D0    PARAFUSO 4,5X25 CABECA CHATA PHS BICROMATIZADO - DISPO   40.000,00000                   Aprovado
-                                 TRAPEZIO
-   170001005                     FILME POLIETILENO (PE) 590X280X0,07 MICRAS                      20,00000                Aprovado
-
-   1600020153000                 BATENTE SILICONE 8MM RESINA P.U (PARA PORTAS/GAVETAS)    20.000,00000                   Aprovado
-   160001050                     FITA DUPLA FACE VHB 4312 25X19MM                         10.000,00000                   Aprovado
-
-   1600020223086                 TAMPA ADESIVA 12MM GRIS                                  20.000,00000                   Aprovado
+   1600020123070                 GIZ DE CORRECAO 15x8 NATURE                                3.000,00000                  Aprovado
    1600020223039                 TAMPA ADESIVA 12MM OFF WHITE                             10.000,00000                   Aprovado
 
-   1600020023039                 TAMPA ADESIVA 18MM OFF WHITE                             20.000,00000                   Aprovado
+   160001005        R01 P10 A302 CAVILHA 8X55MM PINUS                                            40,00000                Aprovado
 
 
 
- 
-                             Solicitante: jussara.souza                            Resp. Almoxarifado: enzo.pedrica
+                             Solicitante: jussara.souza                        Resp. Almoxarifado: michael.cardoso
+
                                                                    Data Retirada:____/____/________       Hora:____:____
+
+
+
+
+
+
+
+
+
+
 
 
 
