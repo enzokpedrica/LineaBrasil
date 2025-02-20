@@ -53,7 +53,7 @@ df_merged = df_merged[['Codigo', 'Deriv_x', 'Descricao', 'Rua', 'Secao', 'Andar'
 # df_merged["QTD Entregue"] = " "
 df_merged["Requisição"] = ""
 df_merged.rename(columns={'Deriv_x' : 'Deriv'}, inplace=True)
-df_merged.drop_duplicates(subset=['Codigo'])
+df_merged = df_merged.drop_duplicates(subset=['Codigo'])
 
 
 df_merged.to_excel('tabela_imprimir.xlsx', index=False, engine='openpyxl')
