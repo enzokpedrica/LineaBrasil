@@ -2,66 +2,66 @@
                                                Atendimento de Requisições                           RSG:
 
 
-     Requis         177.525
+     Requis         177.725
 
-      Solic     vania.ribeiro                                         Centro d1614    Acessórios
- Data Emiss21/02/2025 Hora Emissã  13:0Saldo:Não              Data Entr21/02/2025      Hora Entr13:16
+      Solic     jussara.souza                                         Centro d1614    Acessórios
+ Data Emiss24/02/2025 Hora Emissã  14:2Saldo:Não              Data Entr24/02/2025      Hora Entr15:14
 
-      Produt  Deriv       End    Descrição Produto                                       Quantidade Separação   Observação
+      Produt  DerivEndereço      Descrição Produto                                       Quantidade Separação   Observação
 
-   160001018        R3D S9 E0    CANTONEIRA PLASTICA 20x20x42 COM 4 FUROS                 18.000,00000                   Aprovado
-   160001012        R3E S9 E1    DISPOSITIVO TRAPEZIO CINZA                               15.000,00000                   Aprovado
+   1600020043014                 SAPATA OVAL 12X50 PRETO                                  15.000,00000                   Aprovado
+   1600020053014                 GUIA CABO / PASSA FIO 46MM +/-0,2MM PRETO                  2.000,00000                  Aprovado
 
-   160001001        R3E S5 E1    COLA PARA MONTAGEM - 08GRS                                 1.000,00000                  Aprovado
-   1600020053039                 GUIA CABO / PASSA FIO 46MM +/-0,2MM OFF WHITE              2.000,00000                  Aprovado
+   1600020053039                 GUIA CABO / PASSA FIO 46MM +/-0,2MM OFF WHITE              1.000,00000                  Aprovado
+   1600020123070                 GIZ DE CORRECAO 15x8 NATURE                                3.000,00000                  Aprovado
 
-   160006008        R3E S4 D0    PARAFUSO 4,5X25 CABECA CHATA PHS BICROMATIZADO - DISPO   60.000,00000                   Aprovado
-                                 TRAPEZIO
-   1600020033014    R3E S9 E2    SUPORTE PRATELEIRA NYLON 8X10MM PRETO                      4.000,00000                  Aprovado
+   1600020123039                 GIZ DE CORRECAO 15x8 OFF WHITE                             3.000,00000                  Aprovado
+   1600020123056                 GIZ DE CORRECAO 15x8 GRIGIO                                2.000,00000                  Aprovado
 
-   160006021        R3E S2 D1    PARAFUSO 4,5X35 CABECA FLANGEADA PHS BICROMATIZADO         7.000,00000                  Aprovado
-   160001024        R3E S8 E0    PINO GIROFIX COM ROSCA SOBERBA CONE 7MM - ACO **MODELO   20.000,00000                   Aprovado
+   170001005                     FILME POLIETILENO (PE) 590X280X0,07 MICRAS                      40,00000                Aprovado
+
+   1600020073000                 EMBALAGEM PLASTICA VIRGEM 10X15 PARA ACESSORIOS NEUTRO     5.000,00000                  Aprovado
+   1600020223039                 TAMPA ADESIVA 12MM OFF WHITE                             20.000,00000                   Aprovado
+
+   1600020223085                 TAMPA ADESIVA 12MM JEQUITIBA                             10.000,00000                   Aprovado
+   1600020223086                 TAMPA ADESIVA 12MM GRIS                                  10.000,00000                   Aprovado
+
+   1600020023057                 TAMPA ADESIVA 18MM FREIJO                                10.000,00000                   Aprovado
+   1600020153000                 BATENTE SILICONE 8MM RESINA P.U (PARA PORTAS/GAVETAS)    20.000,00000                   Aprovado
+
+   160001023       R3D S8 E0     CAVILHA 6X30MM                                           50.000,00000                   Aprovado
+
+   160001018       R3D S9 E0     CANTONEIRA PLASTICA 20x20x42 COM 4 FUROS                 12.000,00000                   Aprovado
+   1600020063000   R3E S2 D0     BUCHA 8MM (PAREDE) NEUTRO                                  8.000,00000                  Aprovado
+
+   160001001       R3E S5 E1     COLA PARA MONTAGEM - 08GRS                                 2.000,00000                  Aprovado
+   160001061       R3E S7 E2     SUPORTE ANGULAR CENTRAL NATURE                           10.000,00000                   Aprovado
+
+   160001003       R3E S8 D1     CAVILHAS 8X20MM PINUS                                    20.000,00000                   Aprovado
+   160001011       R3E S8 D2     SUPORTE ANGULAR CENTRAL MARRON                           20.000,00000                   Aprovado
+
+   1600020143070   R3E S8 D3     DISTANCIADOR DE PAINEL 70 X 32 X 15MM NATURE               2.000,00000                  Aprovado
+
+   160001024       R3E S8 E0     PINO GIROFIX COM ROSCA SOBERBA CONE 7MM - ACO **MODELO   40.000,00000                   Aprovado
                                  NOVO**
+   160001004       R3E S9 D1     CAVILHAS 8X30MM PINUS                                    20.000,00000                   Aprovado
+   160001025       R3E S9 E0     CASTANHA DO MINI-GIROFIX 12X9MM  **MODELO NOVO**         40.000,00000                   Aprovado
 
-   160001025        R3E S9 E0    CASTANHA DO MINI-GIROFIX 12X9MM  **MODELO NOVO**         20.000,00000                   Aprovado
-   1600020023039                 TAMPA ADESIVA 18MM OFF WHITE                             10.000,00000                   Aprovado
+   160001012       R3E S9 E1     DISPOSITIVO TRAPEZIO CINZA                               15.000,00000                   Aprovado
 
-   1600020123039                 GIZ DE CORRECAO 15x8 OFF WHITE                             2.000,00000                  Aprovado
-   1600020123070                 GIZ DE CORRECAO 15x8 NATURE                                2.000,00000                  Aprovado
+   160006011       S3 D0 R3E     PREGO 8X8 COM CABECA LISO - 18,50x1,30mm DIAMETRO CABE 100.000,00000                    Aprovado
+                                 3,5MM
+   160006008       S4 D0 R3E     PARAFUSO 4,5X25 CABECA CHATA PHS BICROMATIZADO - DISPO   60.000,00000                   Aprovado
+                                 TRAPEZIO
+   160006016       S4 E1 R3E     PARAFUSO 3,5X12 CABECA FLANGEADA PHS BICROMATIZADO     200.000,00000                    Aprovado
+
+   160006006       S5 E0 R3E     PARAFUSO 3,5X40 CABECA CHATA PHS BICROMATIZADO           30.000,00000                   Aprovado
 
 
 
-
-                               Solicitante: vania.ribeiro                          Resp. Almoxarifado: enzo.pedrica
+                             Solicitante: jussara.souza                            Resp. Almoxarifado: enzo.pedrica
 
                                                                    Data Retirada:____/____/________       Hora:____:____
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
