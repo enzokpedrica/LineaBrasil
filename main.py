@@ -9,7 +9,7 @@ file = "C:/git/linea-ordenacao-requisicao/Lista_Map.CSV"
 df= pd.read_csv(file, delimiter=';', encoding='latin1')
 
 
-wb = openpyxl.load_workbook('layout.xlsx')
+wb = openpyxl.load_workbook('layout_outros.xlsx')
 ws = wb.active
 ws.title = "Tabela"
 
