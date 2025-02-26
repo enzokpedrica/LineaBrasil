@@ -39,14 +39,18 @@ codigo_produto_str = str(codigo_produto_int)
 produto = df.loc[df['Cod Produto'] == codigo_produto_int, 'Produto'].values[0]
 
 # Definir o produto
-if 150001000 <= codigo_produto_int <= 150001999:
-    produto = "Fita Borda Papel"
+if 150001004:
+    produto = "Fita Borda Papel 18MM"
+elif 150001005:
+    produto = "Fita Borda Papel 28MM"
+elif 150001006:
+    produto = "Fita Borda Papel 40MM"   
 else:
     produto = "Fita Borda PS"
 
 ws["B2"] = produto
 cell = ws["B2"]
-cell.font = Font(size=60)
+cell.font = Font(size=50)
 cell.alignment = Alignment(wrapText=True, horizontal='center', vertical='center')
 
 #Definir a Cor
