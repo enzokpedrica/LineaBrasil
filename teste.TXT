@@ -2,57 +2,57 @@
                                                Atendimento de Requisições                           RSG:
 
 
-     Requis         177.955
+     Requis         178.043
 
-      Solic     jussara.souza                                         Centro d1614    Acessórios
- Data Emiss26/02/2025 Hora Emissã  14:4Saldo:Não              Data Entr26/02/2025      Hora Entr15:35
+      Solic     vania.ribeiro                                         Centro d1614    Acessórios
+ Data Emiss27/02/2025 Hora Emissã  14:1Saldo:Não              Data Entr27/02/2025      Hora Entr14:46
 
       Produt  DerivEndereço      Descrição Produto                                       Quantidade Separação   Observação
 
-   1600020143014                 DISTANCIADOR DE PAINEL 70 X 32 X 15MM PRETO                1.000,00000                  Aprovado
-   170001005                     FILME POLIETILENO (PE) 590X280X0,07 MICRAS                      40,00000                Aprovado
+   160003006                     DISTANCIADOR DOBRADICA PARA CANECA 26MM                    5.000,00000                  Aprovado
+   1600020043014                 SAPATA OVAL 12X50 PRETO                                  12.000,00000                   Aprovado
 
-   1600020153000                 BATENTE SILICONE 8MM RESINA P.U (PARA PORTAS/GAVETAS)    20.000,00000                   Aprovado
-   1600020073000                 EMBALAGEM PLASTICA VIRGEM 10X15 PARA ACESSORIOS NEUTRO     3.000,00000                  Aprovado
+   160002050300000               BATENTE DE BORRACHA PARA PORTAS Ø10 - CINZA NEUTRO       10.000,00000                   Aprovado
+   160006032                     PARAFUSO 4,5X35 CABECA FLANGEADA PHS - **PRETO**         14.000,00000                   Aprovado
 
-   1600020123011                 GIZ DE CORRECAO 15x8 CAPUCCINO                             3.000,00000                  Aprovado
-   1600020223085                 TAMPA ADESIVA 12MM JEQUITIBA                             20.000,00000                   Aprovado
+   1600020023039                 TAMPA ADESIVA 18MM OFF WHITE                             40.000,00000                   Aprovado
+   1600020123039                 GIZ DE CORRECAO 15x8 OFF WHITE                             2.000,00000                  Aprovado
+
+   1600020123070                 GIZ DE CORRECAO 15x8 NATURE                                2.000,00000                  Aprovado
+
+   170001005                     FILME POLIETILENO (PE) 590X280X0,07 MICRAS                      20,00000                Aprovado
+   310007096       R07 P07 A201  TOALHA INDUSTRIA VERDE NOVA                                     40,00000                Aprovado
 
    160001023       R3D S8 E0     CAVILHA 6X30MM                                           50.000,00000                   Aprovado
+   160001018       R3D S9 E0     CANTONEIRA PLASTICA 20x20x42 COM 4 FUROS                 30.000,00000                   Aprovado
 
-   1600020063000   R3E S2 D0     BUCHA 8MM (PAREDE) NEUTRO                                  8.000,00000                  Aprovado
-   160001002       R3E S6 E0     PRENDEDOR DE FUNDOS 13X13 COM 1 FURO                     50.000,00000                   Aprovado
-
-   160001003       R3E S8 D1     CAVILHAS 8X20MM PINUS                                    20.000,00000                   Aprovado
-   1600020143070   R3E S8 D3     DISTANCIADOR DE PAINEL 70 X 32 X 15MM NATURE               1.000,00000                  Aprovado
-
-   160001024       R3E S8 E0     PINO GIROFIX COM ROSCA SOBERBA CONE 7MM - ACO **MODELO   20.000,00000                   Aprovado
+   160001011       R3E S8 D2     SUPORTE ANGULAR CENTRAL MARRON                           10.000,00000                   Aprovado
+   160001024       R3E S8 E0     PINO GIROFIX COM ROSCA SOBERBA CONE 7MM - ACO **MODELO   70.000,00000                   Aprovado
                                  NOVO**
-   160001025       R3E S9 E0     CASTANHA DO MINI-GIROFIX 12X9MM  **MODELO NOVO**         20.000,00000                   Aprovado
 
-   160006011       S3 D0 R3E     PREGO 8X8 COM CABECA LISO - 18,50x1,30mm DIAMETRO CABE 100.000,00000                    Aprovado
+   160001004       R3E S9 D1     CAVILHAS 8X30MM PINUS                                    30.000,00000                   Aprovado
+   160001025       R3E S9 E0     CASTANHA DO MINI-GIROFIX 12X9MM  **MODELO NOVO**         70.000,00000                   Aprovado
+
+   1600020033014   R3E S9 E2     SUPORTE PRATELEIRA NYLON 8X10MM PRETO                      2.500,00000                  Aprovado
+   160006011       S3 D0 R3E     PREGO 8X8 COM CABECA LISO - 18,50x1,30mm DIAMETRO CABE 200.000,00000                    Aprovado
                                  3,5MM
-   160006018       S3 D1 R3E     PARAFUSO 4,5X22 CABECA CHATA - ZINCADO                   10.000,00000                   Aprovado
 
-   160006053       S3 E0 R3E     PARAFUSO ESTRUTURAL 7X40 CABECA CHATA ROSCA FINA- PHIL     4.000,00000                  Aprovado
-   160006008       S4 D0 R3E     PARAFUSO 4,5X25 CABECA CHATA PHS BICROMATIZADO - DISPO   20.000,00000                   Aprovado
-                                 TRAPEZIO
-   160006016       S4 E1 R3E     PARAFUSO 3,5X12 CABECA FLANGEADA PHS BICROMATIZADO     180.000,00000                    Aprovado
+   160006018       S3 D1 R3E     PARAFUSO 4,5X22 CABECA CHATA - ZINCADO                   16.000,00000                   Aprovado
+   160006003       S3 D2 R3E     PARAFUSO 3,5X14 CABECA FLANGEADA PHS PRETO               14.000,00000                   Aprovado
 
-   160006006       S5 E0 R3E     PARAFUSO 3,5X40 CABECA CHATA PHS BICROMATIZADO           35.000,00000                   Aprovado
+   160006001       S3 D2 R3E     PARAFUSO 3,5X12 CABECA CHATA PHS REBAIXADO BICROMATIZA   20.000,00000                   Aprovado
+                                 CORREDICA
+   160006053       S3 E0 R3E     PARAFUSO ESTRUTURAL 7X40 CABECA CHATA ROSCA FINA- PHIL   10.000,00000                   Aprovado
+
+   160006016       S4 E1 R3E     PARAFUSO 3,5X12 CABECA FLANGEADA PHS BICROMATIZADO     100.000,00000                    Aprovado
+   160006044       S5 D1 R3E     PARAFUSO M4 20MM CABECA CHATA PHILIPS                      6.000,00000                  Aprovado
 
 
 
 
-                             Solicitante: jussara.souza                            Resp. Almoxarifado: enzo.pedrica
+                               Solicitante: vania.ribeiro                          Resp. Almoxarifado: enzo.pedrica
+
                                                                    Data Retirada:____/____/________       Hora:____:____
-
-
-
-
-
-
-
 
 
 
