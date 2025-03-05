@@ -19,16 +19,19 @@ def mapeamentoItens():
     sheet = wb.active
 
     # Definir borda padrão para remover qualquer borda anterior
-    no_border = Border(left=Side(style=None), right=Side(style=None), top=Side(style=None), bottom=Side(style=None))
-
+    borda_normal = Border(
+        left=Side(style='thin'), 
+        right=Side(style='thin'), 
+        top=Side(style='thin'), 
+        bottom=Side(style='thin'))
+    
     # Iterar por todas as células e remover bordas
     for row in sheet.iter_rows():
         for cell in row:
-            cell.border = no_border # Remover bordas
+            cell.border = borda_normal # Remover bordas
 
     # Salvar a planilha com as bordas removidas
     wb.save(arquivo_sem_borda)
-
 
     #-------------------------------------------
     # Merge entre Planilhas do Senior com o Mapa
