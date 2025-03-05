@@ -2,56 +2,56 @@
                                                Atendimento de Requisições                           RSG:
 
 
-     Requis         178.163
+     Requis         178.281
 
-      Solic     jussara.souza                                         Centro d1614    Acessórios
- Data Emiss28/02/2025 Hora Emissã  15:2Saldo:Não              Data Entr05/03/2025      Hora Entr06:15
+      Solic     vania.ribeiro                                         Centro d1614    Acessórios
+ Data Emiss05/03/2025 Hora Emissã  15:0Saldo:Não              Data Entr05/03/2025      Hora Entr15:13
 
       Produt  DerivEndereço      Descrição Produto                                       Quantidade Separação   Observação
 
-   1600020073000                 EMBALAGEM PLASTICA VIRGEM 10X15 PARA ACESSORIOS NEUTRO     4.000,00000                  Aprovado
-   1600020023070                 TAMPA ADESIVA 18MM NATURE                                40.000,00000                   Aprovado
+   1600020053014                 GUIA CABO / PASSA FIO 46MM +/-0,2MM PRETO                  1.000,00000                  Aprovado
+   1600020053039                 GUIA CABO / PASSA FIO 46MM +/-0,2MM OFF WHITE              1.000,00000                  Aprovado
 
-   1600020023039                 TAMPA ADESIVA 18MM OFF WHITE                             40.000,00000                   Aprovado
-   1600020023059                 TAMPA ADESIVA 18MM TITANIO                               20.000,00000                   Aprovado
-
-   1600020023052                 TAMPA ADESIVA 18MM CARVALHO                              20.000,00000                   Aprovado
-   1600020123070                 GIZ DE CORRECAO 15x8 NATURE                                3.000,00000                  Aprovado
-
-   1600020123039                 GIZ DE CORRECAO 15x8 OFF WHITE                             3.000,00000                  Aprovado
-
-   1600020123011                 GIZ DE CORRECAO 15x8 CAPUCCINO                             2.000,00000                  Aprovado
-   170001005                     FILME POLIETILENO (PE) 590X280X0,07 MICRAS                      40,00000                Aprovado
+   170001005                     FILME POLIETILENO (PE) 590X280X0,07 MICRAS                      20,00000                Aprovado
+   160001063                     CANTONEIRA PLASTICA OFF WHITE 20X20X14X1,8MM               6.000,00000                  Aprovado
 
    160001023       R3D S8 E0     CAVILHA 6X30MM                                           50.000,00000                   Aprovado
-   160001018       R3D S9 E0     CANTONEIRA PLASTICA 20x20x42 COM 4 FUROS                 15.000,00000                   Aprovado
+   1600020063000   R3E S2 D0     BUCHA 8MM (PAREDE) NEUTRO                                  4.000,00000                  Aprovado
 
-   160001061       R3E S7 E2     SUPORTE ANGULAR CENTRAL NATURE                           10.000,00000                   Aprovado
-   160003009       R3E S9 D3     SUPORTE PLASTICO PORTA DE CORRER INTERNO                   5.000,00000                  Aprovado
+   160001024       R3E S8 E0     PINO GIROFIX COM ROSCA SOBERBA CONE 7MM - ACO **MODELO   30.000,00000                   Aprovado
+                                 NOVO**
+   160001025       R3E S9 E0     CASTANHA DO MINI-GIROFIX 12X9MM  **MODELO NOVO**         30.000,00000                   Aprovado
 
    160006021       S2 D1 R3E     PARAFUSO 4,5X35 CABECA FLANGEADA PHS BICROMATIZADO         7.000,00000                  Aprovado
+   160006015       S2 E0 R3E     PARAFUSO 6,0X75 CABECA CHATA PHS BICROMATIZADO           10.000,00000                   Aprovado
 
-   160006015       S2 E0 R3E     PARAFUSO 6,0X75 CABECA CHATA PHS BICROMATIZADO             2.000,00000                  Aprovado
-   160006011       S3 D0 R3E     PREGO 8X8 COM CABECA LISO - 18,50x1,30mm DIAMETRO CABE 100.000,00000                    Aprovado
-                                 3,5MM
-   160006018       S3 D1 R3E     PARAFUSO 4,5X22 CABECA CHATA - ZINCADO                   24.000,00000                   Aprovado
+   160006001       S3 D2 R3E     PARAFUSO 3,5X12 CABECA CHATA PHS REBAIXADO BICROMATIZA   50.000,00000                   Aprovado
+                                 CORREDICA
+   160006053       S3 E0 R3E     PARAFUSO ESTRUTURAL 7X40 CABECA CHATA ROSCA FINA- PHIL     6.000,00000                  Aprovado
 
-   160006003       S3 D2 R3E     PARAFUSO 3,5X14 CABECA FLANGEADA PHS PRETO               15.000,00000                   Aprovado
-
-   160006053       S3 E0 R3E     PARAFUSO ESTRUTURAL 7X40 CABECA CHATA ROSCA FINA- PHIL     4.000,00000                  Aprovado
-   160006008       S4 D0 R3E     PARAFUSO 4,5X25 CABECA CHATA PHS BICROMATIZADO - DISPO   50.000,00000                   Aprovado
+   160006008       S4 D0 R3E     PARAFUSO 4,5X25 CABECA CHATA PHS BICROMATIZADO - DISPO   30.000,00000                   Aprovado
                                  TRAPEZIO
-   160006016       S4 E1 R3E     PARAFUSO 3,5X12 CABECA FLANGEADA PHS BICROMATIZADO     200.000,00000                    Aprovado
+   160006016       S4 E1 R3E     PARAFUSO 3,5X12 CABECA FLANGEADA PHS BICROMATIZADO       80.000,00000                   Aprovado
 
-   160006022       S5 D1 R3E     PARAFUSO M4 12MM CHATA PHS BICROMATIZADO                 10.000,00000                   Aprovado
-
-   160006006       S5 E0 R3E     PARAFUSO 3,5X40 CABECA CHATA PHS BICROMATIZADO           25.000,00000                   Aprovado
-
+   160006044       S5 D1 R3E     PARAFUSO M4 20MM CABECA CHATA PHILIPS                      6.000,00000                  Aprovado
+   160006055       S6 E2 R3E     PARAFUSO 3,5X25 CABECA CHATA PHS ZINCADO                   5.000,00000                  Aprovado
 
 
-                             Solicitante: jussara.souza                            Resp. Almoxarifado: enzo.pedrica
+
+
+                               Solicitante: vania.ribeiro                          Resp. Almoxarifado: enzo.pedrica
 
                                                                    Data Retirada:____/____/________       Hora:____:____
+
+
+
+
+
+
+
+
+
+
 
 
 
