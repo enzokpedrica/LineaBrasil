@@ -7,36 +7,13 @@ import subprocess
 def mapeamentoItens():
     # Declarando variáveis para os caminhos
     arquivo_exportado = r"C:\git\linea-ordenacao-requisicao\Mapeamento\Planilha.xlsx"
-    arquivo_sem_borda = r"C:\git\linea-ordenacao-requisicao\Mapeamento\Planilha_sem_borda.xlsx"
     arquivo_posicao = r"C:\git\linea-ordenacao-requisicao\Lista_Map.CSV"
     arquivo_mapeado = r'C:\git\linea-ordenacao-requisicao\Mapeamento\mapeamento.xlsx'
 
     #-------------------------------------------
-    #Limpeza de bordas do Arquivo Exportado
-    #-------------------------------------------
-    # Carregar o arquivo exportado do Senior
-    wb = load_workbook(arquivo_exportado)
-    sheet = wb.active
-
-    # Definir borda padrão para remover qualquer borda anterior
-    borda_normal = Border(
-        left=Side(style='thin'), 
-        right=Side(style='thin'), 
-        top=Side(style='thin'), 
-        bottom=Side(style='thin'))
-    
-    # Iterar por todas as células e remover bordas
-    for row in sheet.iter_rows():
-        for cell in row:
-            cell.border = borda_normal # Remover bordas
-
-    # Salvar a planilha com as bordas removidas
-    wb.save(arquivo_sem_borda)
-
-    #-------------------------------------------
     # Merge entre Planilhas do Senior com o Mapa
     #-------------------------------------------
-    file = arquivo_sem_borda
+    file = arquivo_exportado
     df = pd.read_excel(file, engine = "openpyxl")
 
     file_map = arquivo_posicao
@@ -51,7 +28,6 @@ def mapeamentoItens():
     df_merged = df_merged.rename(columns={'Produto_x' : "Codigo", 'Descrição Produto' : "Descrição", 'Qtde Mov' : "Quantidade" })
 
     df_merged.to_excel(arquivo_mapeado, index=False, engine='openpyxl')
-
 
     #-------------------------------------------
     # Organização "estética" do Excel
