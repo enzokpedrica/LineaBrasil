@@ -26,7 +26,8 @@ def mapeamentoItens():
     df_merged = df_merged[['Produto_x', 'Descrição Produto', 'Qtde Mov', 'Rua', 'Secao', 'Andar']]
     df_merged = df_merged.drop_duplicates(subset=['Descrição Produto'])
     df_merged = df_merged.rename(columns={'Produto_x' : "Codigo", 'Descrição Produto' : "Descrição", 'Qtde Mov' : "Quantidade" })
-
+    df_merged['Descrição'] = df_merged['Descrição'].str.strip().str.slice(0, 40).str.ljust(40)
+    
     df_merged.to_excel(arquivo_mapeado, index=False, engine='openpyxl')
 
     #-------------------------------------------
@@ -49,8 +50,8 @@ def mapeamentoItens():
     for coluna, tamanho in column_widths.items():
         ws.column_dimensions[coluna].width = tamanho
 
-    # Define a fonte com tamanho de 12
-    fonte_padrao = Font(size=12)
+    # Define a fonte com tamanho de 11
+    fonte_padrao = Font(size=11)
 
     # Aplica a fonte para todas as células
     for row in ws.iter_rows(min_row=1, max_row=ws.max_row, min_col=1, max_col=ws.max_column):
