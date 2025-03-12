@@ -3,8 +3,31 @@ import openpyxl
 from openpyxl import load_workbook
 from openpyxl.styles import Border, Side, Font, Alignment
 import subprocess
+import win32com.client as win32
 
 def mapeamentoItens():
+
+    # Caminho para o arquivo Excel
+    caminho_arquivo = r"C:\git\linea-ordenacao-requisicao\Mapeamento\Planilha.xlsx"
+
+    # Abrir o aplicativo Excel
+    excel = win32.Dispatch("Excel.Application")
+
+    # Tornar o Excel visível (opcional)
+    excel.Visible = True
+
+    # Abrir o arquivo no Excel
+    workbook = excel.Workbooks.Open(caminho_arquivo)
+
+    # Fazer alterações, se necessário (aqui, nenhum dado é alterado)
+
+    # Salvar o arquivo
+    workbook.Save()
+
+    # Fechar o arquivo e o Excel
+    workbook.Close()
+    excel.Quit()
+    
     # Declarando variáveis para os caminhos
     arquivo_exportado = r"C:\git\linea-ordenacao-requisicao\Mapeamento\Planilha.xlsx"
     arquivo_posicao = r"C:\git\linea-ordenacao-requisicao\Lista_Map.CSV"
@@ -26,7 +49,7 @@ def mapeamentoItens():
     df_merged = df_merged[['Produto_x', 'Descrição Produto', 'Qtde Mov', 'Rua', 'Secao', 'Andar']]
     df_merged = df_merged.drop_duplicates(subset=['Descrição Produto'])
     df_merged = df_merged.rename(columns={'Produto_x' : "Codigo", 'Descrição Produto' : "Descrição", 'Qtde Mov' : "Quantidade" })
-    df_merged['Descrição'] = df_merged['Descrição'].str.strip().str.slice(0, 40).str.ljust(40)
+    df_merged['Descrição'] = df_merged['Descrição'].str.strip().str.slice(0, 45).str.ljust(45)
     
     df_merged.to_excel(arquivo_mapeado, index=False, engine='openpyxl')
 
