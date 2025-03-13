@@ -50,6 +50,8 @@ def mapeamentoItens():
     df_merged = df_merged.drop_duplicates(subset=['Descrição Produto'])
     df_merged = df_merged.rename(columns={'Produto_x' : "Codigo", 'Descrição Produto' : "Descrição", 'Qtde Mov' : "Quantidade" })
     df_merged['Descrição'] = df_merged['Descrição'].str.strip().str.slice(0, 45).str.ljust(45)
+
+    df_merged['Quantidade'] = df_merged['Quantidade'].apply(lambda x: f"{x:,.2f}".replace(",", "X").replace(".", ",").replace("X", "."))
     
     df_merged.to_excel(arquivo_mapeado, index=False, engine='openpyxl')
 
@@ -111,3 +113,6 @@ def mapeamentoItens():
     # Abra o arquivo Excel salvo
     subprocess.Popen(['start', 'excel.exe', arquivo_mapeado], shell=True)
     print("Arquivo Excel aberto com sucesso!")
+
+
+mapeamentoItens()
