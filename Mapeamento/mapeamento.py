@@ -113,6 +113,3 @@ def mapeamentoItens():
     # Abra o arquivo Excel salvo
     subprocess.Popen(['start', 'excel.exe', arquivo_mapeado], shell=True)
     print("Arquivo Excel aberto com sucesso!")
-
-
-mapeamentoItens()
