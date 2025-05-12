@@ -1,38 +1,3 @@
-<<<<<<< HEAD
-from Mapeamento import mapeamento as mp
-from Ordenar_Requisicao	import Ordenador as od
-
-
-print("--------------------------------")
-print("Seja Bem Vindo ao EKP_TOOLS")
-print("--------------------------------")
-print("Selecione a opção que necessita:")
-resposta = int(input(" 1 - Mapeamento para Armazenagem \n 2 - Ordenador de Requisição do Acessórios \n 3 - Sair \n Digite a opção: "))
-
-if resposta == 1:
-    print(" ")
-    print("O Arquivo foi salvo corretamente?")
-    confirmacao = int(input(" 1 - Sim \n 2 - Não \n Digite a opção: "))
-    if confirmacao == 1:
-        mp.mapeamentoItens()
-    else:
-        print("Por favor salve o Arquivo corretamente")
-        
-elif resposta == 2:
-    print(" ")
-    print("O Arquivo foi salvo corretamente?")
-    confirmacao = int(input(" 1 - Sim \n 2 - Não \n Digite a opção: "))
-    if confirmacao == 1:
-            od.requisicaoAcessorios()
-    else:
-        print("Por favor salve o Arquivo corretamente")
-else:
-    print("Até breve")
-
-
-
-
-=======
 import openpyxl
 from openpyxl.styles import Alignment, Font
 import subprocess
@@ -44,7 +9,7 @@ file = "C:/git/linea-ordenacao-requisicao/Lista_Map.CSV"
 df= pd.read_csv(file, delimiter=';', encoding='latin1')
 
 
-wb = openpyxl.load_workbook('layout_outros.xlsx')
+wb = openpyxl.load_workbook('layout_fita.xlsx')
 ws = wb.active
 ws.title = "Tabela"
 
@@ -60,8 +25,8 @@ def ajustar_tamanho_fonte(texto, tamanho_base=150):
 
 # Definir a quantidade
 quantidade = input("Digita a Quantidade: ")
-ws["B3"] = quantidade
-cell = ws["B3"]
+ws["B4"] = quantidade
+cell = ws["B4"]
 tamanho_fonte = ajustar_tamanho_fonte(quantidade, tamanho_base=150)
 cell.font = Font(size=tamanho_fonte)
 cell.alignment = Alignment(wrapText=True, horizontal='center', vertical='center')
@@ -74,23 +39,38 @@ codigo_produto_str = str(codigo_produto_int)
 produto = df.loc[df['Cod Produto'] == codigo_produto_int, 'Produto'].values[0]
 
 # Definir o produto
+if codigo_produto_int == 150001004:
+    produto = "Fita Borda Papel 18MM"
+elif codigo_produto_int == 150001005:
+    produto = "Fita Borda Papel 28MM"
+elif codigo_produto_int == 150001006:
+    produto = "Fita Borda Papel 40MM"   
+else:
+    produto = "Fita Borda PS"
+
 ws["B2"] = produto
 cell = ws["B2"]
-cell.font = Font(size=60)
+cell.font = Font(size=50)
 cell.alignment = Alignment(wrapText=True, horizontal='center', vertical='center')
 
+#Definir a Cor
+cores = pd.read_csv("Cores.CSV")
+cores['ID'] = range(1, len(cores) + 1)
+cores.set_index('ID', inplace=True)
+print(cores)
+cor_escolhida = int(input("Qual a cor? "))
+cor_selecionada = cores.loc[cor_escolhida, 'Tipo/Cor']
+ws["B3"] = cor_selecionada
+cell = ws["B3"]
+cell.font = Font(size=60)
+cell.alignment = Alignment(wrapText=True,horizontal='center', vertical='center')
+
 # #--Numero Pedido
-ws["B4"] = codigo_produto_str
-cell = ws["B4"]
+ws["B5"] = codigo_produto_str
+cell = ws["B5"]
 cell.font = Font(size=90)
 cell.alignment = Alignment(wrapText=True,horizontal='center', vertical='center')
 
-
-# #--Volume
-# ws["B5"] = "10"
-# cell = ws["B5"]
-# cell.font = Font(size=110)
-# cell.alignment = Alignment(wrapText=True,horizontal='center', vertical='center')
 
 for cell in ws[1]:
     cell.alignment = Alignment(horizontal='center')
@@ -102,4 +82,6 @@ wb.save('tabela_imprimir.xlsx')
 subprocess.Popen(['start', 'excel.exe', 'tabela_imprimir.xlsx'], shell=True)
 
 print("Arquivo Excel aberto com sucesso!")
->>>>>>> repo2/main
+
+
+

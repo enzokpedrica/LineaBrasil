@@ -1,4 +1,5 @@
 ### Opções: DEF(defeito), MLH(melhoria), NOV(nova funcionalidade), DIS(discussão)
+<<<<<<< HEAD
 ### Status: INI(iniciado), ABO(abortado), CON(concluído)
 ## 11-02-2025
 (DIS) Analisar como substituir CSV por algum banco de dados permitindo acesso de diferentes localidades
@@ -11,3 +12,8 @@
 (NOV) Organizar a criação de um mapeamento dos itens que chegaram no dia
 (MLH) Deixar os arquivos mais organizador, criar módulos e deixar o main.py sendo o principal
 (DEF) Um erro que está acontecendo é no DropDuplicates, porque pode ocorrer de o mesmo código ser produtos diferentes, porque o que vai diferenciar um produto do outro é a Deriv, que seria basicamente a cor de cada item
+=======
+## 12-02-2025
+(MLH) Melhorar a logica para o preenchimento, algo mais amigável. Conectar o lista_map com o programa para quando digitar o codigo puxar o nome do produto
+(MLH) Usuario vai digitar o codigo inteiro, precisa apenas dos 4 ultimos dígitos
+>>>>>>> repo2/main
