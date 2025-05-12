@@ -1,0 +1,162 @@
+                                                                                         Documento: RSG - Registro do Sistema de Gestão                                                                                                       Anexos:                           Página:              
+                                                               Mapa de Produção                                                                                   0                                       1                    
+             Código:                      RSG 7101-04            12/05/2025a 31/05/2025    
+  Pedido                                              Produto                                                                       Derivação                                Qtde.    Qt. Aberta   Ocup.        Cartão     Prev. Corte  Prev. Emb.                  Observações                 Status  Produto   Volumes  Aces. 
+     VERDE        ??    714564   810015083    CRISTALEIRA 0.7M ATENA                                    208539  JEQUITIBA/OFF WHITE FOSCO           320                            0,25      08/05/2025    12/05/2025                                                            PROGRAMADO
+ Qtde. Total Pedido:     320                                                      
+      ROSA        ??    714565   810015066    BALCAO 1.2M ALLURE                                          208586  JEQUITIBA/GRIS FOSCO                      640                            0,27      08/05/2025    12/05/2025                                                            PROGRAMADO
+ Qtde. Total Pedido:     640                                                      
+   BRANCO      ??    714566   810012016    KIT FITA LED LUZ BRANCA QUENTE 1 FITA (160300000  NEUTRO                                                 320                            0,01      08/05/2025    12/05/2025                                                            FINALIZADO   
+ Qtde. Total Pedido:     320                                                      
+  AMARELO     ??    712370   810002032    HOME MACEIO                                                        207039  NATURE/OFF WHITE                             160                            0,21      08/05/2025    12/05/2025                                                            PROGRAMADO
+ Qtde. Total Pedido:     160                                                      
+      AZUL         ??    714567   810006049    PAINEL HOME MARAGOGI                                     205239  CARVALHO/OFF WHITE                       240                            0,41      08/05/2025    12/05/2025                                                            PROGRAMADO
+          .                     714567                                                                                                        207039  NATURE/OFF WHITE                             400                             0,00        08/05/2025    12/05/2025  PROGRAMADO
+ Qtde. Total Pedido:     640                                                      
+  AMARELO     ??    714568   810003078    RACK ISTAMBUL                                                    207039  NATURE/OFF WHITE                             640                            0,29      09/05/2025    13/05/2025                                                            PROGRAMADO
+ Qtde. Total Pedido:     640                                                      
+   BRANCO      ??    714570   810012015    KIT FITA LED LUZ BRANCA QUENTE 1 FITA (200300000  NEUTRO                                                 100                            0,01      09/05/2025    13/05/2025                                                            FINALIZADO   
+ Qtde. Total Pedido:     100                                                      
+     VERDE        ??    714571   810002036    HOME GUARARAPES                                             207039  NATURE/OFF WHITE                             800                            0,75      09/05/2025    13/05/2025                                                            PROGRAMADO
+ Qtde. Total Pedido:     800                                                      
+      ROSA        ??    714572   810015072    TORRE SIMPLES 0.7M ALLURE                              208586  JEQUITIBA/GRIS FOSCO                      400                            0,27      12/05/2025    14/05/2025                                                            PROGRAMADO
+ Qtde. Total Pedido:     400                                                      
+      AZUL         ??    714573   810006097    PAINEL GENOVA 2.0                                              207070  NATURE FOSCO                                   240                            0,09      12/05/2025    14/05/2025                                                            PROGRAMADO
+ Qtde. Total Pedido:     240                                                      
+  AMARELO     ??    714574   810003056    RACK RUBI                                                             207039  NATURE/OFF WHITE                            1.280                          0,25      12/05/2025    14/05/2025                                                            PROGRAMADO
+ Qtde. Total Pedido:    1.280                                                    
+     VERDE        ??    714575   810006092    PAINEL HOME FRIBURGO                                       207039  NATURE/OFF WHITE                             720                            0,26      12/05/2025    14/05/2025                                                            PROGRAMADO
+ Qtde. Total Pedido:     720                                                      
+      ROSA        ??    714576   810015076    BALCAO 1.2M ATENA                                           203939  OFF WHITE                                            560                            0,26      12/05/2025    14/05/2025                                                            PROGRAMADO
+ Qtde. Total Pedido:     560                                                      
+      AZUL         ??    714577   810015067    TAMPO BALCAO 1.2M ALLURE/ATENA                208585  JEQUITIBA FOSCO                               640                            0,07      13/05/2025    15/05/2025                                                            PROGRAMADO
+ Qtde. Total Pedido:     640                                                      
+  AMARELO     ??    714579   810006098    PAINEL SANTORINI                                                 208039  TAUARI/OFF WHITE FOSCO                480                            0,24      13/05/2025    15/05/2025  TERCEIRIZAÇÃO                               PROGRAMADO
+ Qtde. Total Pedido:     480                                                      
+     VERDE        ??    714580   810015079    AEREO SIMPLES 0.8M ATENA                               208539  JEQUITIBA/OFF WHITE FOSCO           240                            0,03      13/05/2025    15/05/2025                                                            PROGRAMADO
+ Qtde. Total Pedido:     240                                                      
+      ROSA        ??    714581   810002048    HOME MUNIQUE                                                      208039  TAUARI/OFF WHITE FOSCO                640                            0,49      13/05/2025    15/05/2025                                                            PROGRAMADO
+ Qtde. Total Pedido:     640                                                      
+     VERDE        ??    715754   810003088    RACK SANTORINI                                                   208039  TAUARI/OFF WHITE FOSCO                560                            0,38      13/05/2025    15/05/2025  TERCEIRIZAÇÃO                               PROGRAMADO
+ Qtde. Total Pedido:     560                                                      
+  AMARELO     ??    715942   810014010    MULTIUSO RETRO  PARTE 1                                  207039  NATURE/OFF WHITE                             640                            0,25      14/05/2025    16/05/2025                                                            PROGRAMADO
+ Qtde. Total Pedido:     640                                                      
+     VERDE        ??    715943   810006078    PAINEL HOME DUBLIN                                            207039  NATURE/OFF WHITE                             640                            0,28      14/05/2025    16/05/2025                                                            PROGRAMADO
+ Qtde. Total Pedido:     640                                                      
+      ROSA        ??    715945   810002049    HOME NAPOLI                                                        208039  TAUARI/OFF WHITE FOSCO                400                            0,31      14/05/2025    16/05/2025                                                            PROGRAMADO
+ Qtde. Total Pedido:     400                                                      
+      AZUL         ??    715946   810006068    PAINEL RIPADO MODULAR 1.4                              207070  NATURE FOSCO                                   640                            0,27      14/05/2025    16/05/2025                                                            PROGRAMADO
+ Qtde. Total Pedido:     640                                                      
+  AMARELO     ??    715947   810003053    RACK COLORADO                                                 207039  NATURE/OFF WHITE                             640                            0,27      15/05/2025    19/05/2025                                                            PROGRAMADO
+ Qtde. Total Pedido:     640                                                      
+      AZUL         ??    714583   810015074    CRISTALEIRA 0.7M ALLURE                                  208586  JEQUITIBA/GRIS FOSCO                      640                            0,47      15/05/2025    19/05/2025                                                            PROGRAMADO
+ Qtde. Total Pedido:     640                                                      
+     VERDE        ??    715948   810003051    RACK SAO FRANCISCO                                        205739  FREIJO/OFF WHITE                               720                            0,25      15/05/2025    19/05/2025                                                            PROGRAMADO
+ Qtde. Total Pedido:     720                                                      
+MPOP111.GER - PCP/Ordens de Produção/Serviço - 12/05/2025 - 08:58                                                                                                                                                                                         Usuário: enzo.pedrica            
+                                                                                         Documento: RSG - Registro do Sistema de Gestão                                                                                                       Anexos:                           Página:              
+                                                               Mapa de Produção                                                                                   0                                       2                    
+             Código:                      RSG 7101-04            12/05/2025a 31/05/2025    
+  Pedido                                              Produto                                                                       Derivação                                Qtde.    Qt. Aberta   Ocup.        Cartão     Prev. Corte  Prev. Emb.                  Observações                 Status  Produto   Volumes  Aces. 
+      ROSA        ??    715949   810002042    HOME ELDORADO 2.0                                            207039  NATURE/OFF WHITE                             400                            0,32      16/05/2025    20/05/2025                                                            PROGRAMADO
+ Qtde. Total Pedido:     400                                                      
+      AZUL         ??    715950   810003063    RACK CRONOS 2.2                                                207039  NATURE/OFF WHITE                             560                            0,28      16/05/2025    20/05/2025                                                            PROGRAMADO
+ Qtde. Total Pedido:     560                                                      
+     VERDE        ??    712371   810006083    EXPOSITOR SIMPLES 3.05M                                   201414  PRETO FOSCO                                       27                             0,03      16/05/2025    20/05/2025  ADESIVAR                                        PROGRAMADO
+ Qtde. Total Pedido:      27                                                       
+      ROSA        ??    712372   810006084    MODULO EXPOSITOR SIMPLES 0.6M                     201414  PRETO FOSCO                                       30                             0,01      16/05/2025    20/05/2025                                                            PROGRAMADO
+ Qtde. Total Pedido:      30                                                       
+      ROSA        ??    715951   810006095    PAINEL HOME ZURIQUE                                         208053  TAUARI/OFF WHITE BRILHO                400                            0,28      16/05/2025    20/05/2025  TERCEIRIZAÇÃO                               PROGRAMADO
+ Qtde. Total Pedido:     400                                                      
+      AZUL         ??    717256   810003060    RACK ESMERALDA                                                207039  NATURE/OFF WHITE                             880                            0,27      19/05/2025    21/05/2025                                                            PROGRAMADO
+ Qtde. Total Pedido:     880                                                      
+  AMARELO     ??    717257   810003055    RACK OURO PRETO                                               207039  NATURE/OFF WHITE                             480                            0,25      19/05/2025    21/05/2025                                                            PROGRAMADO
+ Qtde. Total Pedido:     480                                                      
+   BRANCO      ??    717258   810012013    KIT FITA LED LUZ BRANCA QUENTE 2 FITAS (1300000  NEUTRO                                                1.000                          0,01      19/05/2025    21/05/2025                                                            PROGRAMADO
+ Qtde. Total Pedido:    1.000                                                    
+     VERDE        ??    717259   810006068    PAINEL RIPADO MODULAR 1.4                              207070  NATURE FOSCO                                   640                            0,27      19/05/2025    21/05/2025                                                            PROGRAMADO
+ Qtde. Total Pedido:     640                                                      
+      ROSA        ??    717260   810014032    MODULO RIPADO 0.4                                             207070  NATURE FOSCO                                   880                            0,10      19/05/2025    21/05/2025                                                            PROGRAMADO
+ Qtde. Total Pedido:     880                                                      
+   BRANCO      ??    719933   810015092    AEREO MICROONDAS 0.65M SELENE                   208539  JEQUITIBA/OFF WHITE FOSCO             4                              0,01      09/05/2025    21/05/2025  LOTE TESTE                                      PROGRAMADO
+ Qtde. Total Pedido:       4                                                        
+      AZUL         ??    717261   810003058    RACK AURUM                                                        207039  NATURE/OFF WHITE                             960                            0,26      19/05/2025    21/05/2025                                                            PROGRAMADO
+ Qtde. Total Pedido:     960                                                      
+  AMARELO     ??    717262   810015068    BALCAO 0.8M ALLURE                                          208586  JEQUITIBA/GRIS FOSCO                      400                            0,13      20/05/2025    22/05/2025                                                            PROGRAMADO
+ Qtde. Total Pedido:     400                                                      
+     VERDE        ??    717263   810003056    RACK RUBI                                                             207039  NATURE/OFF WHITE                            1.360                          0,27      20/05/2025    22/05/2025                                                            PROGRAMADO
+ Qtde. Total Pedido:    1.360                                                    
+      ROSA        ??    717264   810015074    CRISTALEIRA 0.7M ALLURE                                  208586  JEQUITIBA/GRIS FOSCO                      400                            0,29      20/05/2025    22/05/2025                                                            PROGRAMADO
+ Qtde. Total Pedido:     400                                                      
+      AZUL         ??    717265   810002042    HOME ELDORADO 2.0                                            207039  NATURE/OFF WHITE                             560                            0,45      20/05/2025    22/05/2025                                                            PROGRAMADO
+ Qtde. Total Pedido:     560                                                      
+  AMARELO     ??    717266   810002041    HOME ATLANTA                                                    207039  NATURE/OFF WHITE                             400                            0,26      21/05/2025    23/05/2025                                                            PROGRAMADO
+ Qtde. Total Pedido:     400                                                      
+   BRANCO      ??    717267   810012015    KIT FITA LED LUZ BRANCA QUENTE 1 FITA (200300000  NEUTRO                                                 400                            0,01      21/05/2025    23/05/2025                                                            PROGRAMADO
+ Qtde. Total Pedido:     400                                                      
+     VERDE        ??    717268   810014029    NICHO 2.2                                                               207039  NATURE/OFF WHITE                             320                            0,10      21/05/2025    23/05/2025                                                            PROGRAMADO
+ Qtde. Total Pedido:     320                                                      
+      ROSA        ??    717269   810002036    HOME GUARARAPES                                             207039  NATURE/OFF WHITE                             560                            0,53      21/05/2025    23/05/2025                                                            PROGRAMADO
+ Qtde. Total Pedido:     560                                                      
+  AMARELO     ??    717271   810015073    AEREO 1.2M ALLURE                                             208586  JEQUITIBA/GRIS FOSCO                      400                            0,13      22/05/2025    26/05/2025                                                            PROGRAMADO
+ Qtde. Total Pedido:     400                                                      
+     VERDE        ??    717272   810006099    PAINEL HOME HAVANA                                         208039  TAUARI/OFF WHITE FOSCO                560                            0,35      22/05/2025    26/05/2025                                                            PROGRAMADO
+ Qtde. Total Pedido:     560                                                      
+      ROSA        ??    717273   810014031    PRATELEIRA 2.2                                                     207070  NATURE FOSCO                                   240                            0,03      22/05/2025    26/05/2025  TERCEIRIZAÇÃO FURAÇÃO             PROGRAMADO
+ Qtde. Total Pedido:     240                                                      
+      AZUL         ??    717274   810015086    CRISTALEIRA 0.65M SELENE                                 208539  JEQUITIBA/OFF WHITE FOSCO           480                            0,25      22/05/2025    26/05/2025  LOTE PILOTO                                    PROGRAMADO
+ Qtde. Total Pedido:     480                                                      
+      AZUL         ??    719058   810015067    TAMPO BALCAO 1.2M ALLURE/ATENA                208585  JEQUITIBA FOSCO                               320                            0,04      22/05/2025    26/05/2025                                                            PROGRAMADO
+ Qtde. Total Pedido:     320                                                      
+  AMARELO     ??    719059   810015066    BALCAO 1.2M ALLURE                                          208586  JEQUITIBA/GRIS FOSCO                      320                            0,13      22/05/2025    26/05/2025                                                            PROGRAMADO
+MPOP111.GER - PCP/Ordens de Produção/Serviço - 12/05/2025 - 08:58                                                                                                                                                                                         Usuário: enzo.pedrica            
+                                                                                         Documento: RSG - Registro do Sistema de Gestão                                                                                                       Anexos:                           Página:              
+                                                               Mapa de Produção                                                                                   0                                       3                    
+             Código:                      RSG 7101-04            12/05/2025a 31/05/2025    
+  Pedido                                              Produto                                                                       Derivação                                Qtde.    Qt. Aberta   Ocup.        Cartão     Prev. Corte  Prev. Emb.                  Observações                 Status  Produto   Volumes  Aces. 
+ Qtde. Total Pedido:     320                                                      
+     VERDE        ??    719060   810013012    MESA DE CABECEIRA BUZIOS                              203939  OFF WHITE                                           1.360                          0,15      22/05/2025    26/05/2025                                                            PROGRAMADO
+ Qtde. Total Pedido:    1.360                                                    
+      ROSA        ??    719061   810003089    RACK DUBAI 1.8                                                    208039  TAUARI/OFF WHITE FOSCO                720                            0,25      23/05/2025    27/05/2025                                                            PROGRAMADO
+ Qtde. Total Pedido:     720                                                      
+      AZUL         ??    719062   810015060    AEREO SIMPLES 0.8M SELENE                              208539  JEQUITIBA/OFF WHITE FOSCO           240                            0,03      23/05/2025    27/05/2025                                                            PROGRAMADO
+ Qtde. Total Pedido:     240                                                      
+  AMARELO     ??    719063   810015065    BALCAO 0.8M SELENE                                          208539  JEQUITIBA/OFF WHITE FOSCO           240                            0,08      23/05/2025    27/05/2025                                                            PROGRAMADO
+ Qtde. Total Pedido:     240                                                      
+   BRANCO      ??    719064   810012004    KIT 8 PES PLASTICO RETANGULAR 100X50X40 207070  NATURE FOSCO                                   500                            0,01      23/05/2025    27/05/2025                                                            PROGRAMADO
+ Qtde. Total Pedido:     500                                                      
+      ROSA        ??    719065   810002042    HOME ELDORADO 2.0                                            207039  NATURE/OFF WHITE                             560                            0,71      23/05/2025    27/05/2025                                                            PROGRAMADO
+          .                     719065                                                                                                        208239  JATOBA/OFF WHITE                            320                             0,00        23/05/2025    27/05/2025  PROGRAMADO
+ Qtde. Total Pedido:     880                                                      
+  AMARELO     ??    719066   810014027    MODULO LATERAL OURO PRETO                         207039  NATURE/OFF WHITE                             880                            0,23      26/05/2025    28/05/2025                                                            PROGRAMADO
+ Qtde. Total Pedido:     880                                                      
+     VERDE        ??    719067   810002036    HOME GUARARAPES                                             207039  NATURE/OFF WHITE                             640                            0,60      26/05/2025    28/05/2025                                                            PROGRAMADO
+ Qtde. Total Pedido:     640                                                      
+      ROSA        ??    719068   810003058    RACK AURUM                                                        207039  NATURE/OFF WHITE                            1.200                          0,33      26/05/2025    28/05/2025                                                            PROGRAMADO
+ Qtde. Total Pedido:    1.200                                                    
+     VERDE        ??    719091   810014047    PRATELEIRA CURVA 2.2                                       208686  GRIS FOSCO                                         240                            0,02      26/05/2025    28/05/2025  LOTE PILOTO - TERCEIRIZAÇÃO      PROGRAMADO
+ Qtde. Total Pedido:     240                                                      
+      ROSA        ??    719074   810014044    COMPLEMENTO LATERAL SAO PAULO 2.2          208080  TAUARI FOSCO                                    160                            0,01      27/05/2025    29/05/2025                                                            PROGRAMADO
+ Qtde. Total Pedido:     160                                                      
+      AZUL         ??    719076   810001027    ESTANTE NEW BAHIA                                            205839  AMENDOA/OFF WHITE                         400                            0,29      27/05/2025    29/05/2025                                                            PROGRAMADO
+ Qtde. Total Pedido:     400                                                      
+  AMARELO     ??    719080   810006049    PAINEL HOME MARAGOGI                                     205239  CARVALHO/OFF WHITE                       160                            0,66      27/05/2025    29/05/2025                                                            PROGRAMADO
+          .                     719080                                                                                                        205739  FREIJO/OFF WHITE                               480                             0,00        27/05/2025    29/05/2025  PROGRAMADO
+          .                     719080                                                                                                        207039  NATURE/OFF WHITE                             400                             0,00        27/05/2025    29/05/2025  PROGRAMADO
+ Qtde. Total Pedido:    1.040                                                    
+     VERDE        ??    719082   810014046    PRATELEIRA CURVA 1.4                                       208686  GRIS FOSCO                                         240                            0,01      27/05/2025    29/05/2025  LOTE PILOTO - TERCEIRIZAÇÃO      PROGRAMADO
+ Qtde. Total Pedido:     240                                                      
+      ROSA        ??    719085   810003078    RACK ISTAMBUL                                                    207039  NATURE/OFF WHITE                             720                            0,32      28/05/2025    30/05/2025                                                            PROGRAMADO
+ Qtde. Total Pedido:     720                                                      
+      AZUL         ??    719086   810001023    ESTANTE NEW LARA                                             205757  FREIJO                                                   640                            0,25      28/05/2025    30/05/2025                                                            PROGRAMADO
+ Qtde. Total Pedido:     640                                                      
+  AMARELO     ??    719087   810013015    CABECEIRA LARANJEIRAS 2.4                             203939  OFF WHITE                                            160                            0,26      28/05/2025    30/05/2025                                                            PROGRAMADO
+          .                     719087                                                                                                        205252  CARVALHO                                          240                             0,00        28/05/2025    30/05/2025  PROGRAMADO
+          .                     719087                                                                                                        207070  NATURE FOSCO                                   320                             0,00        28/05/2025    30/05/2025  PROGRAMADO
+ Qtde. Total Pedido:     720                                                      
+     VERDE        ??    719088   810006054    PAINEL HOME ARARUNA                                       205739  FREIJO/OFF WHITE                               320                            0,27      28/05/2025    30/05/2025                                                            PROGRAMADO
+ Qtde. Total Pedido:     320                                                      
+      ROSA        ??    719089   810014048    NICHO CURVO 1.4                                                  208086  TAUARI/GRIS FOSCO                           240                            0,05      28/05/2025    30/05/2025  LOTE PILOTO - TERCEIRIZAÇÃO      PROGRAMADO
+ Qtde. Total Pedido:     240                                                      
+    Qtde. Total Geral:   38.061                   0                               Ocupação Finalizada/Cx Aberta:   0,02 Ocupação Programada/Embalando:  16,21 Ocupação Prevista:    0,00 Ocupação Acessorio Interno:  16,23 Ocupação Acessorio Externo:    0,00
+MPOP111.GER - PCP/Ordens de Produção/Serviço - 12/05/2025 - 08:58                                                                                                                                                                                         Usuário: enzo.pedrica            
