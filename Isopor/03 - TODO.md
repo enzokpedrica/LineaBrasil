@@ -5,3 +5,6 @@
 
 ## 20-05-2025
 (MLH) Criar lógica para os lotes que usam Tecnoplac e Vidros
+
+## 21-05-2025
+(MLH) Acredito que seria melhor cada aba pra cada coisa
