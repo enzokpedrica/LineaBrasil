@@ -7,4 +7,4 @@
 (MLH) Criar lógica para os lotes que usam Tecnoplac e Vidros (CON)
 
 ## 23-05-2025
-(DEF) A coluna Vidro não está mantendo o status quando altera
+(DEF) A coluna Vidro não está mantendo o status quando altera (CON)
